@@ -43,4 +43,4 @@ Conduct Load Testing: Perform stress tests before major marketing campaigns to e
 
 This incident served as a valuable lesson in capacity planning and the importance of robust monitoring systems. While we managed to restore service, the outage affected a significant portion of our users, reminding us of our commitment to maintaining reliable service. With the corrective actions outlined, we aim to minimize the likelihood of similar issues in the future. And as they say, “If it’s not broke, don’t fix it—but if it is, fix it like a pro!”
 
-![brace yourselves, post mortem is coming meme]("C:\Users\Eunice\Downloads\brace-yourselves-post-b72f1870a8.jpg")
+![brace yourselves, post mortem is coming meme]("[C:\Users\Eunice\Downloads\brace-yourselves-post-b72f1870a8.jpg](https://media.makeameme.org/created/brace-yourselves-post-b72f1870a8.jpg)")
