@@ -1,8 +1,14 @@
 import requests
 
 def number_of_subscribers(subreddit):
-    """Function that queries the Reddit API to get the number of subscribers
-    for a given subreddit.
+    """
+    Queries the Reddit API to get the number of subscribers for a given subreddit.
+    
+    Args:
+        subreddit (str): The name of the subreddit.
+
+    Returns:
+        int: Number of subscribers if subreddit exists, 0 otherwise.
     """
     # Define the user agent to avoid 'Too Many Requests' errors
     headers = {'User-Agent': 'Mozilla/5.0'}
